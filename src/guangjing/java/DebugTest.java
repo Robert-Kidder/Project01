@@ -25,5 +25,7 @@ public class DebugTest {
 
         map.remove("major");
         System.out.println(map);
+        String s1 = 3.5f + "";
+        System.out.println(s1);
     }
 }
